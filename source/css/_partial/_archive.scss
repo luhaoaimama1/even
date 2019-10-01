@@ -23,8 +23,14 @@
     }
 
     .archive-post-counter {
-      display: none;
+      //display: none;
+      margin-left: 5px;
       color: $dark-gray;
+    }
+
+    .archive-name-custom {
+      display: inline-block;
+      margin: 0;
     }
   }
 
